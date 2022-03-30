@@ -17,7 +17,7 @@ The aim of the course is two-fold. First, we shall discuss topics of interest fo
 Prerequisites
 -------------
 
-Statistical Mechanics and Quantum Mechanics, introductory level courses, such as [8.044](/courses/8-044-statistical-physics-i-spring-2013/) (Statistical Physics I), [8.08](/courses/8-08-statistical-physics-ii-spring-2005) (Statistical Physics II), and [8.04](/courses/8-04-quantum-physics-i-spring-2013/) (Quantum Physics I).
+Statistical Mechanics and Quantum Mechanics, introductory level courses, such as [8.044](/courses/8-044-statistical-physics-i-spring-2013) (Statistical Physics I), [8.08](/courses/8-08-statistical-physics-ii-spring-2005) (Statistical Physics II), and [8.04](/courses/8-04-quantum-physics-i-spring-2013) (Quantum Physics I).
 
 Course Topics
 -------------
